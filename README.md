@@ -11,7 +11,9 @@ This Repository is Sharing my OpenCore EFI files to my friends!
 
 这一步需要参考黑果圈大佬@国光酱 的教程视频：[700 多一套的黑苹果小主机还要啥自行车呀？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1zh4y1575u/?spm_id_from=333.337.search-card.all.click)
 
-> 注意事项：在大佬的Git中有一份老的EFI，有一份新的EFI，老的EFI用于安装步骤，才能正常安装上黑果，如果直接拿新EFI安装黑果会卡八个果果界面，安装完后再替换OpenCore 引导中的EFI文件。
+> 注意事项：
+>   1. 在大佬的Git中有一份老的EFI，有一份新的EFI，老的EFI用于安装步骤，才能正常安装上黑果，如果直接拿新EFI安装黑果会卡八个果果界面，安装完后再替换OpenCore 引导中的EFI文件。
+>   2. 在替换新的EFI后进入黑果会卡八个红果果是正常现象请耐心等待2-3分钟，即可正常进入系统。
 
 ## Step 03 根据网卡选择对应EFI
 
